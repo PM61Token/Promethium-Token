@@ -18,14 +18,14 @@ Roadmap
 Q1 2022
 - Promethium coin deploy BSC 610,000
 - Promethium website  
-- Dapp payment gateway (forex, Game online)
-
-Q2 2022
 - exchange
 
+Q2 2022
+- NFT GAME rare Earth
+
 Q3 2022
-- partnership (forex, Game online)
+Soon!
 
 Q4 2022
-- NFT GAME rare Earth
+Soon!
 
